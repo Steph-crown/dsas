@@ -33,6 +33,10 @@ class Stack {
   size() {
     return this.items.length;
   }
+
+  toString() {
+    return this.items.toString();
+  }
 }
 
 module.exports = Stack;
