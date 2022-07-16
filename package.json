@@ -1,0 +1,19 @@
+{
+  "name": "learning-dsas",
+  "version": "1.0.0",
+  "description": "On the day June 1, 2022, I started learning about Data Structures and Algorithms (DSAs) and this repo is a documentation of what I have learnt and codes to support them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steph-crown/learning-dsas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steph-crown/learning-dsas/issues"
+  },
+  "homepage": "https://github.com/Steph-crown/learning-dsas#readme"
+}
