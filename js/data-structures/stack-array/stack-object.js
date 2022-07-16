@@ -41,6 +41,16 @@ class Stack {
       this.pop();
     }
   }
+
+  // return a string form of the stack
+  toString() {
+    if (this.isEmpty()) return "";
+    let str = `${this.items[0]}`;
+    for (let i = 1; i <= this.count; i++) {
+      str = `${str},${this.items[i]}`;
+    }
+    return str;
+  }
 }
 
 module.exports = Stack;
